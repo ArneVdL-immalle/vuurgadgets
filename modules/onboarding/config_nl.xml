@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>onboarding</name>
+	<displayName><![CDATA[Instappen]]></displayName>
+	<version><![CDATA[1.0.2]]></version>
+	<description><![CDATA[De instap module begroet nieuwe gebruikers in hun PrestaShop back-office: door middel van een klein speelse interface laat het de gebruiker zien hoe zijn/haar winkel te lanceren in een aantal eenvoudige stappen.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
